@@ -4,3 +4,9 @@
 - title: GitHub
   url: https://github.com/albertcalv
   icon: fab fa-github
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=vm5Ki34AAAAJ&hl=en
+  icon: fas fa-graduation-cap
+- title: Linkedin
+  url: https://www.linkedin.com/in/albertcalvo/
+  icon: fab fa-linkedin

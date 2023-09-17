@@ -621,7 +621,7 @@ ul.task-list li .task-list-item-checkbox {
   display: block;
 }
 .site-nav .current-page {
-  text-decoration: line-through;
+  text-decoration: underline;
 }
 @media screen and (min-width: 900px) {
   .site-nav {
